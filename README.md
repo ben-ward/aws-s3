@@ -3,7 +3,7 @@
 S3Client - A Javascript Library for AWS S3 File Upload
 
 ```
-npm install --save aws-s3
+npm install --save aws-s3-pro
 ```
 
 

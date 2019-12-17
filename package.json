@@ -1,9 +1,9 @@
 {
-  "name": "aws-s3",
-  "version": "2.0.5",
+  "name": "aws-s3-pro",
+  "version": "1.0.0",
   "description": "S3Client - A Javascript Library for AWS S3 File Upload",
   "author": {
-    "name": "Faustino Kialungila"
+    "name": "Madhu Sudhan"
   },
   "main": "dist/aws-s3.js",
   "module": "dist/aws-s3.m.js",
