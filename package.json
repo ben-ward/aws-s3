@@ -1,6 +1,6 @@
 {
   "name": "aws-s3-pro",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "S3Client - A Javascript Library for AWS S3 File Upload",
   "author": {
     "name": "Madhu Sudhan"
