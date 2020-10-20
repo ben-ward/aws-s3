@@ -49,7 +49,7 @@ class S3Client {
     }
     public async deleteFile(fileName: string): Promise<DeleteResponse> {
       const url: string = `https://${this.config.bucketName}.s3${
-        this.config.region ? "-" + this.config.region : ""
+        this.config.region ? "." + this.config.region : ""
         }.amazonaws.com/${
         this.config.dirName ? this.config.dirName + "/" : ""
         }${fileName}`;
